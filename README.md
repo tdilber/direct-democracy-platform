@@ -26,7 +26,7 @@ Halkın kolay anlaması açısından araştırma sonuçlarının genel bir şabl
 ## Yönetim Planı Takibi 
 - Akademisyenler tarafından hazırlanmış ve halkın seçtiği Yönetim Planlarının içinde zaten zaman çizelgesi olacak (Şart koşulacak). 
 - Yönetim Planındaki zaman çizelgesine göre ekranda gösterilecek. Planlanan tarihler geçtiyse kırmızı, zamanında bittiyse yeşil vs. olabilir. (Örnek "image.png")
-![Zaman Çizelgesi](“https://github.com/tdilber/direct-democracy-platform/image.png”)
+![Zaman Çizelgesi](“https://github.com/tdilber/direct-democracy-platform/blob/master/image.png?raw=true")
 - Geçiken gün sayısı, tahmini bitiş süresi vs. plan müdürü tarafından sisteme yüklenecek. 
 - Halkın soruları yanıtlanacak. (En çok oy alan 10 soru mesela.)
 
