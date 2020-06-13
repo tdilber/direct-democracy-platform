@@ -11,7 +11,7 @@ Açıklama
 ### Akademik ilgili alanlar belirlenip halka duyurulacak. (Örneğin Maliye, Dış Politika, Fizik, Mekanik, Bilişim, İstiğbarat vs.)
 
 ## Yönetim Planı Hazırlama Akış Şeması 
-1) Yöneticiler tarafından yapılması gereken ana konu (akademik ilgi alanları ile beraber) paylaşılacak. (Örneğin Senelik Bütçe Belirlenecek)
+1) Yöneticiler tarafından yapılması gereken ana konu (akademik ilgi alanları ile beraber) paylaşılacak. (Örneğin "Senelik Bütçe Belirlenecek" ilgi alanı "Maliye, Ekonomi vs.")
 2) Halka ana konun akademik ilgi alanı ile uyuşan tüm akademisyenler gösterilecek. Akademisyenlerin adı, resmi, cinsiyeti, nereli olduğu gösterilmeyecek. Akademisyenlerin sadece Uluslararası Akademik Derecesi, tüm makaleleri, geçmiş E-Demokrasi başarıları (5 Yıldız gibi basit olabilir çünkü ayırt etdilmesi mümkün olmasın) gösterilecek. 
 3) Halk belirli bir süre içinde 1 veya daha fazla (maksimum sayı değişebilir Örneğin 10) akademisyen seçecek.
 4) En çok oy alan belirli sayıdaki (Örnek ilk 10) akademisyenler konu hakkında bir araştırma yapacak. (İsterlerse 2'li 3'lü çalışabilirler.) Araştırma için belirli bir süre verilecek (Örneğin 1 ay). 
