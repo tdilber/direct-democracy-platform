@@ -3,7 +3,7 @@
 BaşBakan => BaşHakem olacak. 
 E-Devletin olacak. 
 Open Source Olacak.
-Halka veriler şeffaf gösterilecek. Mesela halk veritabanına ulaşacabilecek. Fakat veri tabanında tüm userId'ler hash ile tutulduğu için kimin kime oy verdiği anlaşılamayacak. 
+Halka veriler şeffaf gösterilecek. Halk veritabanına ulaşacabilecek. Fakat veri tabanında tüm userId'ler hash ile tutulduğu için kimin kime oy verdiği anlaşılamayacak. 
 
 
 ## E-Demokrasi Hafızasında Olaması Gerekenler
