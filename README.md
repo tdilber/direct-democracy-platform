@@ -1,6 +1,5 @@
 # Doğrudan Demokrasi Platformu
-
-Açıklama 
+ Türkiyenin sadece kendi menfaatlerini düşünen kandrıma odaklı iktidar dönügüsünü kıracak bir çözüm olduğuna inanıyorum. Sadece halkın bunu herhangi bir iktidardan gerçek manada talep etmesi. Hangi iktidar olduğunun hiçbir önemi kalmayacak.  
 BaşBakan => BaşHakem olacak. 
 E-Devletin olacak. 
 Open Source Olacak.
@@ -21,7 +20,7 @@ Halka veriler şeffaf gösterilecek. Mesela halk veritabanına ulaşacabilecek. 
 Araştırma içeriği çok net planlamalar, çözümler, süre tahminleri, süre planlamaları, geçmiş veriler, gelecek planlamaları vs. içerecek.
 Halkın kolay anlaması açısından araştırma sonuçlarının genel bir şablonu olacak (Mesela süreci anlatan bir uzun çubuk üzerinde hangi tarihte ne yapılacak ne bitecek vs. gibi şemalar olmalı).
 5) Deadline sonunda akademisyenlerin araştırmaları halka duyurulacak. Konusu ilgili alanına giren tüm akademisyenler araştırmalara yorumlar verecek. (Youtube yorumları style olabilir.) Bu yorumları, tartışmaları halk görebilecek. 
-6) Araştırmaların yayınlanmasından belirli süre sonra halk oylama yapacak. Araştırmalar içerisinden en çok oy alan çözüm faaliyete konulacak. Yönetim Planı olarak seçilmiş olacak. 
+6) Araştırmaların yayınlanmasından belirli süre sonra halk oylama yapacak. (Oylama +1, 0, -1 içerecek.) Araştırmalar içerisinden en çok oy alan çözüm faaliyete konulacak. Yönetim Planı olarak seçilmiş olacak. 
 
 ## Yönetim Planı Takibi 
 - Akademisyenler tarafından hazırlanmış ve halkın seçtiği Yönetim Planlarının içinde zaten zaman çizelgesi olacak (Şart koşulacak). 
