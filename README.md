@@ -6,7 +6,7 @@ Open Source Olacak.
 Halka veriler şeffaf gösterilecek. Halk veritabanına ulaşacabilecek. Fakat veri tabanında tüm userId'ler hash ile tutulduğu için kimin kime oy verdiği anlaşılamayacak. 
 
 
-## E-Demokrasi Hafızasında Olaması Gerekenler
+## E-Demokrasi Hafızasında Olması Gerekenler
 1) Tüm Halk
 2) Akademisyenler (İlgili alanlaları, CV'si, Uluslararası Akademik Derecesi, Tüm Tezleri ve Makaleleri)
 
