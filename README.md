@@ -1,8 +1,11 @@
 # Doğrudan Demokrasi Platformu
 
-
-BaşBakan => BaşHakem olacak. 
 Açıklama 
+BaşBakan => BaşHakem olacak. 
+E-Devletin olacak. 
+Open Source Olacak.
+Halka veriler şeffaf gösterilecek. Mesela halk veritabanına ulaşacabilecek. Fakat veri tabanında tüm userId'ler hash ile tutulduğu için kimin kime oy verdiği anlaşılamayacak. 
+
 
 ## E-Demokrasi Hafızasında Olaması Gerekenler
 1) Tüm Halk
@@ -21,9 +24,10 @@ Halkın kolay anlaması açısından araştırma sonuçlarının genel bir şabl
 6) Araştırmaların yayınlanmasından belirli süre sonra halk oylama yapacak. Araştırmalar içerisinden en çok oy alan çözüm faaliyete konulacak. Yönetim Planı olarak seçilmiş olacak. 
 
 ## Yönetim Planı Takibi 
-- Süreci 
-
-
+- Akademisyenler tarafından hazırlanmış ve halkın seçtiği Yönetim Planlarının içinde zaten zaman çizelgesi olacak (Şart koşulacak). 
+- Yönetim Planındaki zaman çizelgesine göre ekranda gösterilecek. Planlanan tarihler geçtiyse kırmızı, zamanında bittiyse yeşil vs. olabilir. 
+- Geçiken gün sayısı, tahmini bitiş süresi vs. plan müdürü tarafından sisteme yüklenecek. 
+- Halkın soruları yanıtlanacak. (En çok oy alan 10 soru mesela.)
 
 
 ## Oyunu Devretme
