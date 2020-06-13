@@ -1,5 +1,5 @@
-# -Direct Democracy
-Doğrudan Demokrasi Platformu
+# Doğrudan Demokrasi Platformu
+
 
 BaşBakan => BaşHakem olacak. 
 Açıklama 
